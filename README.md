@@ -22,8 +22,8 @@ API: flask
 
 ### Клонируем репозиторий и создаем образ
 ```
-$ git clone https://github.com/AlSavva/Ml_i_B_Course_Project.git
-$ cd Ml_i_B_Course_Project
+$ git clone https://github.com/AlSavva/ml_in_business_course_project.git
+$ cd ml_in_business_course_project
 $ docker build -t alsavva/review-sentiment-predict .
 ```
 
