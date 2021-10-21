@@ -1,8 +1,7 @@
-# Ml_i_B_Course_Project
+# Итоговый проект курса "Машинное обучение в бизнесе"
 
-Итоговый проект курса "Машинное обучение в бизнесе"
 
-Стек:
+Стек:Python ML libraries, Flask, Docker
 
 ML: sklearn, pandas, numpy
 API: flask
